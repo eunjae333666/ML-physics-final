@@ -33,7 +33,9 @@ content/workspace/
 ├── scripts/
 │   ├── run_ideal_gas_test.py      # 이상 기체 한계 (Z = 1) 검증 검사기
 │   └── run_path_optimization.py   # 유한 시간 사이클 수렴 검증용 파이프라인
-└── README.md               # 저장소 설명서
+└── docs/
+    ├──  README.md
+    └──  ML_Physics_final.pptx
 ```
 
 ---
@@ -58,3 +60,8 @@ python scripts/run_ideal_gas_test.py
 ### 2. 열역학 최대 출력 사이클 최적화 실행
 ```bash
 python scripts/run_path_optimization.py
+```
+
+## 발표 자료
+
+[발표 PPT](docs/final_presentation.pptx)
