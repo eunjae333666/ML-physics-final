@@ -64,4 +64,4 @@ python scripts/run_path_optimization.py
 
 ## 발표 자료
 
-[발표 PPT](docs/final_presentation.pptx)
+[발표 PPT](docs/ML_Physics_final.pptx)
